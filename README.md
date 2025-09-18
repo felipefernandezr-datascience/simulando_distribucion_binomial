@@ -1,0 +1,2 @@
+# simulando_distribucion_binomial
+PROBABILIDAD Y DECISIÓN - SIMULANDO LA DISTRUBUCIÓN BINOMIAL
